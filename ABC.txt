@@ -1,4 +1,9 @@
 ABC
+<<<<<<< HEAD
+
+qwe
+=======
 XYZ
 qwe
 chuj ci w dupe
+>>>>>>> refs/remotes/origin/master
